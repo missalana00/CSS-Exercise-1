@@ -1,0 +1,86 @@
+
+/* Article 1 Styling */
+
+
+h2 {
+	font-family:'Open Sans Condensed', sans-serif;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.div1 {
+	background-color: goldenrod;
+	font-family: fantasy;
+	font-size: 1em;
+	color: black;
+	line-height: 1.8;
+	padding: .1em;
+	border: 5px solid yellow;
+	border-radius: 5%;
+}
+
+
+div h3 {
+	font-weight: 900;
+}
+
+
+/* Article 2 Styling */
+
+
+.div2 {
+	background-color: #6666cc;
+	font-family: serif;
+	font-size: .8em;
+	color: white;
+	line-height: 1.2em;
+	padding: .2em;
+	border: 8px dotted purple;
+	border-radius: 0%;
+}
+
+
+/* Article 3 Styling */
+
+
+.div3 {
+	background-color: #66cc99;
+	font-family: monospace;
+	font-size: 1.2em;
+	color:  #ffffcc;
+	line-height: 1em;
+	padding: .4em;
+	border: 15px dashed navy;
+	border-radius: 20px;
+}
+
+
+/* Article 4 Styling */
+
+
+.div4 {
+	background-color: #ffccff;
+	font-family: sans-serif;
+	font-size: 2em;
+	color:   #ff66cc;
+	line-height: 2em;
+	padding: 4em;
+	border: 30px solid pink;
+	border-radius: 50px;
+}
+
+
+/* Article 5 Styling */
+
+
+.div5 {
+	background-color: lightgrey;
+	font-family: Monaco;
+	font-size: 1.5em;
+	color: #333333;
+	line-height: 1.5em;
+	padding: .5em;
+	border: 2px solid black;
+	border-radius: 20px 0 0 0;
+}
+
